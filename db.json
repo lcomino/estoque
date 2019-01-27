@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "urlImagem": "https://picsum.photos/200/200/?random",
+      "descricao": "Copo Descartável 100ml",
+      "valor": "1.90",
+      "estoque": 10
+    },
+    {
+      "id": 2,
+      "urlImagem": "https://picsum.photos/200/200/?random",
+      "descricao": "Papel Toalha",
+      "valor": "5.60",
+      "estoque": 19
+    },
+    {
+      "id": 3,
+      "urlImagem": "https://picsum.photos/200/200/?random",
+      "descricao": "Grampeador",
+      "valor": "10.90",
+      "estoque": 15
+    }
+  ]
+}
